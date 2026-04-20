@@ -55,7 +55,46 @@ color:#00ff00;
 color:#0000ff;
 
 
+Selectors 
 
+Universal selector
+*{}
+
+Element selector
+h1{}
+
+Id selector
+#myId{}
+
+Class Selector
+.myClass{}
+
+
+Questions 1:
+ create a simple div with id "box".
+ Add some text content inside the div.
+ Sets its background color to blue .
+
+Question 2:
+create 3 headings with h1, h2 & h3.
+give them all a class "heading" & set color of "heading" to red
+
+Question 3:
+create a button & set its background color to:
+ >> green using css stylesheet
+ >> blue using <style> tag
+ >> pink using inline style
+
+
+Shortcut 
+
+.myClass
+
+#myid
+
+for box
+
+#box
 
 
 
