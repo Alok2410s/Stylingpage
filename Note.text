@@ -97,6 +97,31 @@ for box
 #box
 
 
+Text properties
+
+text-align: left/right/center
+in text align use the Start as a right 
+and ude End for left
+
+
+<div> ----- this is called parent because it is outside the inside side tag
+
+<p></p> ----- this is called child because it is inside the another tag
+
+</div>
+
+
+Text-Decoration
+
+used in underline, overline, line-through
+
+
+search mdn site for text-decoration 
+
+Font-weight
+
+font-weight: normal/bold/bolder/lighter
+font-weight: 100-900
 
 
 

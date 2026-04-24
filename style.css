@@ -14,4 +14,12 @@ button{
 #box {
     /* color: #000; */
     background-color: blueviolet;
+    text-align:right;
+}
+h1{
+    text-align: center;
+    text-decoration:underline;
+}
+a{
+    text-decoration:dashed;
 }
