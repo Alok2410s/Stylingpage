@@ -124,6 +124,19 @@ font-weight: normal/bold/bolder/lighter
 font-weight: 100-900
 
 
+font-family/style
+
+font-family: arial
+font-family:arial, roboto
+
+
+Units 
+Absolute
+
+pixels(px)
+
+96px=1 inch
+font-size:2px;
 
 
 

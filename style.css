@@ -23,3 +23,15 @@ h1{
 a{
     text-decoration:dashed;
 }
+
+#nick{
+    font: weight 600px;;
+}
+
+#twenty{
+    font-family: Arial;
+}
+
+#thirty{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
