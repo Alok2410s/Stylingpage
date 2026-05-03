@@ -151,6 +151,15 @@ Q3 Set the outer div text size to 25px & inner div text size to 10px.
 
 -----level2------
 
+Box Model CSS
+
+Height 
+Width
+Border
+Padding
+Margin
+
+
 Height
 
 by default, it sets the content area height of the element
@@ -182,3 +191,7 @@ border:2px solid black;
         |    |    color
         |   style
       width
+
+
+       
+
