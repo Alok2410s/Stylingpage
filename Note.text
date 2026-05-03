@@ -204,3 +204,15 @@ Padding
 >padding-left   >padding-right
 >padding-top    >padding-bottom
 
+Shorthand for padding
+
+padding:50px
+
+padding: 1px 2px 3px 4px;
+          |    |   |   |
+          |    |   |  left->clockwise
+          |    |  bottom  
+          |   right
+        top
+
+        
