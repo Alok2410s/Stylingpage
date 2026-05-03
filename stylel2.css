@@ -15,4 +15,5 @@ h1{
     border-color: black;
     border-style: solid;
     text-align: center;
+    border-radius: 10px; 
 }

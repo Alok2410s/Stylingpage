@@ -193,5 +193,14 @@ border:2px solid black;
       width
 
 
-       
+  When we need to create circle then the 
+ 
+  Border-radius:50% 
+  
+  it makes the perfect circle.     
+
+Padding
+
+>padding-left   >padding-right
+>padding-top    >padding-bottom
 
