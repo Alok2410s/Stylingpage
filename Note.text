@@ -200,6 +200,7 @@ border:2px solid black;
   it makes the perfect circle.     
 
 Padding
+means the btw the content and border
 
 >padding-left   >padding-right
 >padding-top    >padding-bottom
@@ -215,4 +216,9 @@ padding: 1px 2px 3px 4px;
           |   right
         top
 
-        
+
+Margin 
+Area Btw two box 
+
+>margin-left   >margin-right
+>margin-top    >margin-bottom
